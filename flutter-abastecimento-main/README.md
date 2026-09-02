@@ -1,3 +1,3 @@
 # flutter_abastecimento
 
-A new Flutter project.
+Os Prints estão na pasta Web
